@@ -1,0 +1,4 @@
+rm -rf /data/data/com.pubg.imobile/files
+rm -rf /data/data/com.pubg.imobile/files/ano_tmp
+touch /data/data/com.pubg.imobile/files/ano_tmp
+chmod 000 /data/data/com.pubg.imobile/files/ano_tmp
